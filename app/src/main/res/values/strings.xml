@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Status Bar Image POC</string>
+    <string name="move_webview_below_the_status_bar">Move WebView below the status bar</string>
+    <string name="move_webview_on_status_bar">Move WebView on the status bar</string>
+</resources>
